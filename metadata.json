@@ -1,0 +1,6 @@
+{
+  "name": "AI Rental Package Builder",
+  "description": "Full-stack AI-Driven electronics rental orchestrator that parses conversational descriptions of needs into high-fidelity hardware setups, item specifications, cost estimations, and official quotations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
